@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021/08/17 19:37:07.600,=C:\Users\Matheus Letra\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/17 19:37:29.034,C:\Users\Matheus Letra\Arquivos\Projetos\delphi-test\UTest.pas=C:\Users\Matheus Letra\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/17 19:37:29.034,C:\Users\Matheus Letra\Arquivos\Projetos\delphi-test\UTest.dfm=C:\Users\Matheus Letra\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/08/17 19:37:34.482,C:\Users\Matheus Letra\Arquivos\Projetos\delphi-test\PTest.dproj=C:\Users\Matheus Letra\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
