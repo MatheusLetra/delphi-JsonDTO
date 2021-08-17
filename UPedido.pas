@@ -29,10 +29,8 @@ type
     FProdutosArray: TArray<TProdutos>;
     [GenericListReflect]
     FProdutos: TObjectList<TProdutos>;
-  protected
-    function GetAsJson: string; override;
-
   public
+    function GetAsJson: string; override;
     function GetProdutos: TObjectList<TProdutos>;
     destructor Destroy; override;
 

@@ -73,6 +73,9 @@ begin
 
     ClientDataSet1.IndexFieldNames := 'ID';
 
+    Memo1.Lines.Clear;
+    Memo1.Lines.Add(Pedido.GetAsJson)
+
   finally
     FreeAndNil(Pedido);
   end;
